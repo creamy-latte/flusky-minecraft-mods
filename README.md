@@ -1,4 +1,4 @@
-# kitsune-minecraft-mods
+# kitsune-minecraft-config
 My most used minecraft mods
 Feel free to use it!
 
