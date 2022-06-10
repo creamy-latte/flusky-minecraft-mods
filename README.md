@@ -1,6 +1,5 @@
 # kitsune-minecraft-config
-My personal minecraft config
-Feel free to use it!
+My personal minecraft config, feel free to use it!
 
 1. Download 7z file
 2. Extract it
