@@ -1,5 +1,5 @@
 # kitsune-minecraft-config
-My most used minecraft mods
+My personal minecraft config
 Feel free to use it!
 
 1. Download 7z file
