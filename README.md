@@ -1,5 +1,4 @@
 # kitsune-minecraft-config
-My personal minecraft config, feel free to use it!
 
 1. Download zip file
 2. Extract it
