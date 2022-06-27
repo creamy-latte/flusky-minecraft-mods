@@ -1,4 +1,4 @@
-# kitsune-minecraft-config
+# flusky-minecraft-mods
 
 1. Download zip file
 2. Extract it
