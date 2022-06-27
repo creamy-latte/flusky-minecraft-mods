@@ -8,4 +8,4 @@ My personal minecraft config, feel free to use it!
 5. Run minecraft with fabric loader
 
 note: 
-for minecraft version 1.19
+for minecraft version 1.18.2
